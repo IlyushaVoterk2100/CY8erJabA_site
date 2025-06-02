@@ -1,3 +1,21 @@
 body {
-    background-color: #EEEEEE;
+    background-color: #0f0f0d;
+}
+
+h4 {
+    color:aliceblue;
+    background-image: url(jaba.jpg);
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-color: #0f0f0d;
+    text-align: center;
+}
+
+span {
+    background-color: #0f0f0d;
+    display: inline-block;
+}
+
+.list-group-item-action {
+    background: rgba(3, 255, 3, 1);
 }
